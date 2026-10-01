@@ -15,6 +15,13 @@
       "when": 1790793052719,
       "tag": "0001_lean_shatterstar",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1790879778312,
+      "tag": "0002_empty_anita_blake",
+      "breakpoints": true
     }
   ]
 }
